@@ -3,7 +3,7 @@
 @setlocal DisableDelayedExpansion
 @echo off
 
-type nul > arnold_digital_tested.txt
+
 
 ::  For command line switches, check mass grave[.]dev/command_line_switches
 ::  If you want to better understand script, read from MAS separate files version. 
